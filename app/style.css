@@ -14,3 +14,7 @@ body {
     justify-content: center;
     font-family: 'Roboto', sans-serif;
 }
+
+.logo {
+    width: 150px;
+}
